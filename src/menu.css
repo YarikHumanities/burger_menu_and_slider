@@ -1,4 +1,8 @@
 /* stylelint-disable indentation */
+* {
+    height: auto;
+}
+
 .menu-wrap {
     position: fixed;
     top: 0;
